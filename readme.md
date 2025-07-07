@@ -3,23 +3,23 @@
 # Heading 1
 ## Heading 2
 
-_Italics_
+_CPP_
 
-**Strong/Bold**
+**CPP**
 
-~~1000~~ **999**
+~~CPP~~ **CPP**
 
 Links
-[Visit website](https://www.google.com "google")
+[Visit website](https://docs.google.com/document/d/1-7Co93b504uyXyMjjE8bnLJP3d3QXvp_m1UjvbvdR2Y/edit?tab=t.0 "CPP Resource")
 
 Images
-![Google Mascot](https://imgs.search.brave.com/Vgz3G9TzlqU9OOEI1XWCeLFiMYKxnu6MtZjmjAkzcnE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXNj/b3RqdW5jdGlvbi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjAvMDkvVmlydHVh/bF9MZWFybmluZ19N/YXRyaXhfU2hhcmsu/anBn "Learning Mascot")
+![Google Mascot](https://media3.locals.com/images/posts/originals/2024-01-10/102127/102127_hbixx1dj69foxga.jpeg "Learn CPP")
 
 Use `for` loop
 
-```javascript
-var name = "Adarsh"
-console.log(name);
+```c++
+char name = "Adarsh"
+cout << name;
 ```
 
 Tables
