@@ -18,6 +18,8 @@ int main()
     cout << "size of char is: " << sizeof(char) << endl;
     cout << "size of int is: " << sizeof(int) << endl;
     cout << "Hello world" << endl;
+    cout << "New first line" << endl;
+    cout << "New second line" << endl;
 
     return 0;
 }
